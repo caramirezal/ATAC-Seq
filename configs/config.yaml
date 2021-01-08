@@ -1,0 +1,9 @@
+## Parameters for the ATACSeq pipeline
+
+## folder where fastq files are stored
+## Files are iteratively collected
+datapath : /media/ag-cherrmann/cramirez/2020_hdsu_projects/ATAC-Seq/data/
+
+## Path to the bowtie2 indexed genome
+index : /media/ag-cherrmann/aquintero/pipelines/pipelines-ATACseq/db/iGenomes/Homo_sapiens/UCSC/hg38/Sequence/Bowtie2Index/genome
+
